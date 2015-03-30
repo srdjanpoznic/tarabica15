@@ -1,0 +1,3 @@
+- Create DB called Tarabica15
+- Restore from this backup
+- set up connection string in Web.config
