@@ -144,7 +144,6 @@
     <Compile Include="Controllers\BaseApiController.cs" />
     <Compile Include="Controllers\BooksController.cs" />
     <Compile Include="Controllers\LibrariesController.cs" />
-    <Compile Include="Controllers\UsersController.cs" />
     <Compile Include="Filters\CustomAuthorizeAttribute.cs" />
     <Compile Include="Filters\ExceptionFilterAttribute.cs" />
     <Compile Include="Helpers\ClaimsUtility.cs" />
